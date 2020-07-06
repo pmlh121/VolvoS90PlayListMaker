@@ -1,0 +1,10 @@
+D:\VsProject\VolvoS90PlayListMaker\VolvoS90PlayListMaker\bin\Debug\VolvoS90PlayListMaker.exe.config
+D:\VsProject\VolvoS90PlayListMaker\VolvoS90PlayListMaker\bin\Debug\VolvoS90PlayListMaker.exe
+D:\VsProject\VolvoS90PlayListMaker\VolvoS90PlayListMaker\bin\Debug\VolvoS90PlayListMaker.pdb
+D:\VsProject\VolvoS90PlayListMaker\VolvoS90PlayListMaker\obj\Debug\VolvoS90PlayListMaker.Form1.resources
+D:\VsProject\VolvoS90PlayListMaker\VolvoS90PlayListMaker\obj\Debug\VolvoS90PlayListMaker.Properties.Resources.resources
+D:\VsProject\VolvoS90PlayListMaker\VolvoS90PlayListMaker\obj\Debug\VolvoS90PlayListMaker.csproj.GenerateResource.cache
+D:\VsProject\VolvoS90PlayListMaker\VolvoS90PlayListMaker\obj\Debug\VolvoS90PlayListMaker.csproj.CoreCompileInputs.cache
+D:\VsProject\VolvoS90PlayListMaker\VolvoS90PlayListMaker\obj\Debug\VolvoS90PlayListMaker.exe
+D:\VsProject\VolvoS90PlayListMaker\VolvoS90PlayListMaker\obj\Debug\VolvoS90PlayListMaker.pdb
+D:\VsProject\VolvoS90PlayListMaker\VolvoS90PlayListMaker\obj\Debug\VolvoS90PlayListMaker.csprojAssemblyReference.cache
